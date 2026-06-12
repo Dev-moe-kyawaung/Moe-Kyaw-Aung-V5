@@ -1,0 +1,27 @@
+name: moe_kyaw_aung_portfolio_v5
+description: Moe Kyaw Aung Flutter V5 Premium Bento Cyber Portfolio
+publish_to: 'none'
+version: 5.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.3
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.0
+  http: ^1.2.2
+  font_awesome_flutter: ^10.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
