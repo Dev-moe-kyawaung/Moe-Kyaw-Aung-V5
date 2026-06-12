@@ -1,0 +1,11 @@
+
+## Suggested next files
+The only remaining pieces to make the repo fully upload-ready are:
+- `CONTRIBUTING.md`
+- `CODE_OF_CONDUCT.md`
+- `SECURITY.md`
+- `.github/workflows/deploy-web.yml`
+- `firebase.json`
+- `.firebaserc`
+
+I can generate the **final complete set of GitHub workflow YAML files** next so the whole repository is fully copy-paste ready.
